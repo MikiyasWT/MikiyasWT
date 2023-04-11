@@ -1,3 +1,6 @@
+![dogimage](https://user-images.githubusercontent.com/28855355/231174505-450bc254-12d1-49de-a3cd-596b1bcf373c.jpg)
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on React | NodeJs | Express ...
