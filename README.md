@@ -1,5 +1,4 @@
-![dogimage](https://user-images.githubusercontent.com/28855355/231174505-450bc254-12d1-49de-a3cd-596b1bcf373c.jpg)
-
+![FOR GITHUB COVER](https://user-images.githubusercontent.com/28855355/231174910-e5b05afe-c522-4772-98f7-11e071cb487e.jpeg)
 
 ### Hi there 👋
 
