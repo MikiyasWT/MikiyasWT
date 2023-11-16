@@ -20,8 +20,9 @@
 
 
  
-<div class="flex flex-col">
+<div class="flex flex-col flex-gap-[4px]">
  <div>
+  <h2>programming Languages</h2>
    <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -31,6 +32,7 @@
  </div>
 
   <div>
+   <h2>Frotnend framework and libraries</h2>
    <p>
        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -43,6 +45,7 @@
  </div>
 
   <div>
+   <h2>Backend framework and runtime environmnets</h2>
    <p>
      
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
