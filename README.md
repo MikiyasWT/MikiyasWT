@@ -32,7 +32,7 @@
  </div>
 
   <div>
-   <h2>Frotnend framework and libraries</h2>
+   <h2>Frontned frameworks and libraries</h2>
    <p>
        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -45,7 +45,7 @@
  </div>
 
   <div>
-   <h2>Backend framework and runtime environmnets</h2>
+   <h2>Backend frameworks and runtime environmnets</h2>
    <p>
      
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
