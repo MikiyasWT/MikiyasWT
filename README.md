@@ -3,10 +3,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on .NET | React | Typescript | NodeJs | Express ...
-- 🌱 Open for Remote Jobs
-- 👯 I’m looking to collaborate on a Web project using React & NodeJs
+- 🌱 Open to Remote Jobs
+- 💚 Remote Job
+- 👯 I’m looking to collaborate on a Web project using .NET, React & NodeJs
 - 🤔 I’m looking for help with a full-time job...
-- 💬 Ask me about React | NodeJs | Typescript ...
+- 💬 Ask me about .NET | React | NodeJs | Typescript ...
 - 📫 How to reach me: https://www.linkedin.com/in/mikiyas-wendmneh/
 - ⚡ Fun fact: I build furniture
 
