@@ -1,15 +1,14 @@
-![FOR GITHUB COVER](https://user-images.githubusercontent.com/28855355/231174910-e5b05afe-c522-4772-98f7-11e071cb487e.jpeg)
+![mIKIYAS WENDMNEH (1)](https://github.com/MikiyasWT/MikiyasWT/assets/28855355/35459e53-4154-4034-b7ab-2693cd5401ba)
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on React | NodeJs | Express ...
+- 🔭 I’m currently working on .NET | React | Typescript | NodeJs | Express ...
 - 🌱 Open for Remote Jobs
 - 👯 I’m looking to collaborate on a Web project using React & NodeJs
 - 🤔 I’m looking for help with a full-time job...
 - 💬 Ask me about React | NodeJs | Typescript ...
 - 📫 How to reach me: https://www.linkedin.com/in/mikiyas-wendmneh/
 - ⚡ Fun fact: I build furniture
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikiyasWT&show_icons=true&theme=radical&count_private=true)
